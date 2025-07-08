@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Console application output -->
+    <OutputType>Exe</OutputType>
+
+    <!-- Target .NET 7 framework -->
+    <TargetFramework>net7.0</TargetFramework>
+
+    <!-- Enable nullable reference type checks -->
+    <Nullable>enable</Nullable>
+
+    <!-- Enable implicit using directives (less using clutter) -->
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
